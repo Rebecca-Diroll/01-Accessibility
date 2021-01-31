@@ -22,3 +22,4 @@ Changes that have been made:
 
 9. CSS: Combined benefit-lead h3, benefit-brand h3, benefit-cost h3 into one designation for margin bottom and text-align.
 
+10. CSS: Combined additional separate tags into one designation when they had the same specifications.
