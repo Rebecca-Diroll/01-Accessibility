@@ -14,4 +14,9 @@ Changes that have been made:
 
 5. Changed from div and content class to content tag.
 
-6. Changed from div and footer class to footer tag.
+6. Changed from div and benefits class to benefits tag.
+
+7. Changed from div and footer class to footer tag.
+
+8. CSS: Combined benefit-lead, benefit-brand, benefit-cost into one designation for margin-bottom and color.
+
