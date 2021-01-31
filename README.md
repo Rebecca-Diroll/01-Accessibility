@@ -10,4 +10,8 @@ Changes that have been made:
 
 3. Add alt text to the images.
 
-4. Changed the div and header class to a header tag.
+4. Changed from div and header class to header tag.
+
+5. Changed from div and content class to content tag.
+
+6. Changed from div and footer class to footer tag.
