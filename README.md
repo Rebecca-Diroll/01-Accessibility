@@ -1,6 +1,8 @@
 # 01-Accessibility
 
-The purpose of this activity is to make the hH website more accessible and simplify the code when possible.
+The purpose of this activity is to make the website more accessible and simplify the code when possible.
+
+![image](./assets/images/Horiseon-Screenshot.png)
 
 Changes that have been made:
 
