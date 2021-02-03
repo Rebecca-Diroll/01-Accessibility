@@ -41,11 +41,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Sets the style for the nav bar elements. */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Set all paragraph fonts. */
 p {
     font-size: 16px;
 }
@@ -59,22 +61,26 @@ p {
     background-position: center;
 }
 
+/* Set selector for text that floats left. */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Set selector for text that floats right. */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Sets style for main body of html. */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Sets style for the aside benefits html. */
 aside {
     margin-right: 20px;
     padding: 20px;
